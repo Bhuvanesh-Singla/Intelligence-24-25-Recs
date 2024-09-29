@@ -2,24 +2,32 @@
 
 ## Main Task
 
-Enhance underwater images using various deep learning techniques. [Link to dataset](https://kaggle.com/datasets/b498391bea2bc8b0c6301bf2cd8820ef3bca6896e07ce2a50b54a62859db050e)
-Make 1 Jupyter Notebook, preferrably on Kaggle, and do all the required steps within that, with clear demarcation between steps.
+In this task, you will learn and implement various techniques related to image generation. You will be using these techniques to enhance the quality of underwater images. ([Link to dataset](https://kaggle.com/datasets/b498391bea2bc8b0c6301bf2cd8820ef3bca6896e07ce2a50b54a62859db050e))
+Make a github repository for this task. Your code for each subtask should be present in a file called ``subtask<number>.ipynb``. The VAEs task, for example will be present in a notebook called ``subtask1.ipynb``. Write clean code and make sure to add proper comments.
 
-## Subtask
+## Subtasks
 
 ### Subtask 1: Variational Autoencoders (VAEs)
-- Implement and train a VAE for underwater image enhancement
-- Generate enhanced images using the trained VAE
+- Implement and train a VAE for underwater image enhancement.
+- Generate enhanced images using the trained VAE.
+- Resources: 
+    - [Video](https://youtu.be/SSXDkfiPs7c?si=CaU8izd-iWaicmt5)
+    - [Blog](https://medium.com/@aniketp2009/image-denoising-using-variational-autoencoders-e2cda0c336d2)
 
 ### Subtask 2: Generative Adversarial Networks (GANs) - MNIST Practice
-- Learn about GANs
-- Implement a basic GAN for the MNIST dataset
-- Train and evaluate the GAN on MNIST
+- Learn about GANs.
+- Implement a basic GAN for the MNIST dataset.
+- Train and evaluate the GAN on MNIST.
+- Resources: 
+    - [Video](https://youtu.be/8L11aMN5KY8?si=J9nOBQAUmId-LmpT)
+    - [Blog](https://www.geeksforgeeks.org/generative-adversarial-network-gan/)
 
 ### Subtask 3: GANs for Underwater Image Enhancement
-- Implement a pix2pix generator and PatchGAN discriminator
-- Train the GAN on underwater images
-- Generate enhanced images using the trained GAN
+- Implement a GAN using the generator and discriminator described in the paper linked below.
+- Train the GAN on underwater images.
+- Generate enhanced images using the trained GAN.
+- Resources: 
+    - [Paper](https://paperswithcode.com/method/pix2pix)
 
 ### Subtask 4: Diffusion Models
 - Implement a diffusion model for image enhancement
