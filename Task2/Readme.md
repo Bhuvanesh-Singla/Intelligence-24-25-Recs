@@ -3,6 +3,7 @@
 ## Main Task
 
 Enhance underwater images using various deep learning techniques. [Link to dataset](https://kaggle.com/datasets/b498391bea2bc8b0c6301bf2cd8820ef3bca6896e07ce2a50b54a62859db050e)
+Make 1 Jupyter Notebook, preferrably on Kaggle, and do all the required steps within that, with clear demarcation between steps.
 
 ## Subtask
 
