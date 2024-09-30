@@ -35,7 +35,7 @@ In this task, you will learn and implement various techniques related to image g
 - Train the diffusion model on underwater images
 - Generate enhanced images using the trained diffusion model
 - Resources:
-      -[Video](https://youtu.be/687zEGODmHA?si=xJjjw4oDL558NDRZ)
+    - [Video](https://youtu.be/687zEGODmHA?si=xJjjw4oDL558NDRZ)
 
 ## Conclusion
 - Compare results from all three methods (VAE, GAN, Diffusion) based on PSNR, MSE and SSIM scores.
