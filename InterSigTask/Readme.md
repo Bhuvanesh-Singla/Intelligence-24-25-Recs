@@ -12,6 +12,8 @@ Participants will leverage this text to build a structured index for retrieval, 
 You can access the full text of the book from the following link:  
 **[Harry Potter and the Prisoner of Azkaban PDF](https://ia902903.us.archive.org/12/items/FantasyFictionebookcollection/Harry%20Potter/3%20-%20Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban.pdf)**.
 
+Put all your work in a folder called ``HogwartsQ&A``.
+
 ### **Steps to Complete the Challenge**:
 
 1. **Data Collection & Ingestion**:  

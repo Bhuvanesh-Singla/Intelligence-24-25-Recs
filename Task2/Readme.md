@@ -3,7 +3,7 @@
 ## Main Task
 
 In this task, you will learn and implement various techniques related to image generation. You will be using these techniques to enhance the quality of underwater images. ([Link to dataset](https://kaggle.com/datasets/b498391bea2bc8b0c6301bf2cd8820ef3bca6896e07ce2a50b54a62859db050e))
-Make a github repository for this task. Your code for each subtask should be present in a file called ``subtask<number>.ipynb``. The VAEs task, for example will be present in a notebook called ``subtask1.ipynb``. Write clean code and make sure to add proper comments.
+. Your code for each subtask should be present in a file called ``subtask<number>.ipynb``. The VAEs task, for example will be present in a notebook called ``subtask1.ipynb``. All your notebooks should be in a folder called ``Underwater_Image_Enhancement``. Write clean code and make sure to add proper comments.
 
 ## Subtasks
 
