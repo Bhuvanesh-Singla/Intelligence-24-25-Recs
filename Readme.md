@@ -1,5 +1,5 @@
-# Intelligence SIG Recruitments 24-25 🧠💡
-
+# Intelligence SIG Recruitments 24-25
+---
 Welcome to the Intelligence SIG Recruitments for 2024-2025! 🎉 We're excited to have you join our community of ML enthusiasts. This repository contains a series of tasks designed to challenge and enhance your machine learning skills. Let's embark on this journey of exploration and learning together. 🚀
 
 ## Task Structure 📁
